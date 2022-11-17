@@ -29,7 +29,7 @@ export class AddCustomerMaster extends Component{
                 alert(result);
             }
             else{
-                alert('Special characters are not allowed.');
+                alert('special characters are not allowed.');
             }
            
         },
