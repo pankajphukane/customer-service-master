@@ -26,7 +26,7 @@ export class AddCustomerPartMaster extends Component{
                 alert(result);
             }
             else{
-                alert('special characters are not allowed.');
+                alert('Special characters are not allowed.');
             }
         },
         (error)=>{
